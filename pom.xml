@@ -8,13 +8,13 @@
 		<version>2.6.3</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.seattle</groupId>
-	<artifactId>seattle</artifactId>
+	<groupId>com.northgate</groupId>
+	<artifactId>northgate</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>seattle</name>
-	<description>seattle project for Spring Boot</description>
+	<name>northgate</name>
+	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>11</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
